@@ -43,4 +43,4 @@ The project follows a **cloud-native architecture**:
 - **Languages**: Python, JavaScript, HTML, CSS  
 - **Frameworks**: React, Flask  
 - **Cloud Services**: AWS EC2, S3, API Gateway, Lambda, DynamoDB, IAM  
-- **Tools**: Git, GitHub, Postman, VS Code  
+- **Tools**: Git, GitHub, VS Code  
